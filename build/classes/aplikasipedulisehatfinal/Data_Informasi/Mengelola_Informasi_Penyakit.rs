@@ -1,0 +1,2 @@
+AplikasiPeduliSehat.Data_Informasi.MengelolaInformasiPenyakit
+AplikasiPeduliSehatFinal.Data_Informasi.Mengelola_Informasi_Penyakit
